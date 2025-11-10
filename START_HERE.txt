@@ -1,0 +1,132 @@
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   ██████╗ ███████╗███╗   ███╗ ██████╗     ██╗  ██╗             ║
+║   ██╔══██╗██╔════╝████╗ ████║██╔═══██╗    ╚██╗██╔╝             ║
+║   ██║  ██║█████╗  ██╔████╔██║██║   ██║     ╚███╔╝              ║
+║   ██║  ██║██╔══╝  ██║╚██╔╝██║██║   ██║     ██╔██╗              ║
+║   ██████╔╝███████╗██║ ╚═╝ ██║╚██████╔╝    ██╔╝ ██╗             ║
+║   ╚═════╝ ╚══════╝╚═╝     ╚═╝ ╚═════╝     ╚═╝  ╚═╝             ║
+║                                                                  ║
+║   ██╗  ██╗███████╗██╗  ██╗ █████╗                               ║
+║   ██║  ██║██╔════╝╚██╗██╔╝██╔══██╗                              ║
+║   ███████║█████╗   ╚███╔╝ ███████║                              ║
+║   ██╔══██║██╔══╝   ██╔██╗ ██╔══██║                              ║
+║   ██║  ██║███████╗██╔╝ ██╗██║  ██║                              ║
+║   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝                              ║
+║                                                                  ║
+║              CYBERPUNK THEME FOR PTERODACTYL                     ║
+║                      VERSION 1.0                                 ║
+║                 Created by: itzmebrmhexa                         ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+
+🔴 WELCOME TO DEMO X HEXA THEME! 🔴
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📦 WHAT YOU HAVE:
+
+  ✅ 100+ CSS Animations (glitch, neon, cyber effects)
+  ✅ Custom Cyber-Themed Login Page
+  ✅ Matrix Rain & Particle Effects
+  ✅ 100+ Font Awesome Icon Mappings
+  ✅ Automated Installation Scripts
+  ✅ Complete Documentation
+  ✅ Production Ready!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 QUICK START (3 STEPS):
+
+  1. Make installer executable:
+     chmod +x install-demoxhexa.sh
+
+  2. Run installer:
+     sudo bash install-demoxhexa.sh
+
+  3. Clear browser cache and reload!
+     (Ctrl + Shift + Delete)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📖 DOCUMENTATION:
+
+  📄 README.md           → Full documentation (MUST READ!)
+  📄 INSTALL.md          → Quick installation guide
+  📄 CHANGELOG.md        → Version history
+  📄 DELIVERY_SUMMARY.md → Complete feature list
+  📄 LICENSE             → MIT License
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚠️  IMPORTANT NOTES:
+
+  • Requires Pterodactyl Panel v1.x
+  • Requires root/sudo access
+  • Automatic backups are created
+  • Tested on Ubuntu 20.04/22.04 & Debian 11/12
+  • Compatible with all major browsers
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔧 FILES INCLUDED:
+
+  Core Theme:
+    • demoxhexa-theme.css (2,231 lines - 100+ animations)
+    • cyber-effects.js (605 lines - interactive effects)
+    • icon-mapping.js (379 lines - 100+ icons)
+    • login.blade.php (341 lines - custom login)
+    • demoxhexa-logo.svg (animated SVG logo)
+
+  Installation:
+    • install-demoxhexa.sh (automated installer)
+    • uninstall-demoxhexa.sh (automated uninstaller)
+    • tailwind.config.extension.js (Tailwind extensions)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 NEED HELP?
+
+  • Read README.md for complete documentation
+  • Check INSTALL.md for troubleshooting
+  • GitHub: https://github.com/itzmebrmhexa
+  • Issues: Report bugs via GitHub Issues
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎨 FEATURES:
+
+  Visual:
+    ✨ Red/Black Hacker Aesthetic
+    ✨ Neon Glow Effects
+    ✨ Matrix Rain Background
+    ✨ Particle Network System
+    ✨ Holographic Borders
+    ✨ Scanline CRT Effect
+    ✨ Custom Animations on Everything
+
+  Technical:
+    🚀 60fps Smooth Animations
+    🚀 Responsive Design
+    🚀 Cross-Browser Compatible
+    🚀 Performance Optimized
+    🚀 Easy to Customize
+    🚀 Safe Backup System
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔴 LET'S GET STARTED! 🔴
+
+  Ready to transform your Pterodactyl Panel?
+  Run: sudo bash install-demoxhexa.sh
+
+  Questions? Read README.md first!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Created with ❤️ for the Pterodactyl Community
+By: itzmebrmhexa
+
+HACK THE PLANET 🌐
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
